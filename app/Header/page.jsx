@@ -84,7 +84,7 @@ let Icons = [
   { name: <PiGithubLogoLight />, href: "https://github.com/kodaneflash" },
 ];
 
-const people = [
+/* const people = [
   {
     id: 1,
     name: "INSTAGRAM",
@@ -106,7 +106,7 @@ const people = [
     image: "/img/party.png",
     href: "https://github.com/kodaneflash",
   },
-];
+] */
 
 function Headpage() {
   const [open, cycleOpen] = useCycle(false, true);
