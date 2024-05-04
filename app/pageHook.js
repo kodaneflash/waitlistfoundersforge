@@ -23,7 +23,7 @@ const people = [
   {
     id: 1,
     name: "JOIN NOW",
-    designation: "How bout u join my fuqin waitlist 😂",
+    designation: "Follow our Instagram too",
     image: "/img/email.png",
     href: "https://instagram.com/thefoundersforge ",
   },
