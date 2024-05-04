@@ -73,7 +73,7 @@ let textvariant = {
 // ];
 // const bootonLinks = [
 //   { name: "Magazine", href: "/magazine" },
-//   { name: "About", href: "/about" },
+//  { name: "About", href: "/about" },
 //   { name: "Support", href: "/support" },
 //   { name: "Contact", href: "/contact" },
 // ];
@@ -144,9 +144,11 @@ function Headpage() {
       <div className="flex justify-between md:max-w-5xl max-w-lg mx-auto lg:mt-16 mt-11 md:px-8 px-9">
         <div className="flex gap-x-3 items-center">
           <Switch checked={checked} setChecked={setChecked} />
-          <p className="text-sm text-white hidden md:block">
-            Visit our Blog
-          </p>
+          <Link href="https://jamesarcher.io">
+            <p className="text-sm text-white hidden md:block cursor-pointer">
+              Visit our Blog
+            </p>
+          </Link>
         </div>
 
         <div className="flex gap-x-6">
