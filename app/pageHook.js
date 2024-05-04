@@ -171,11 +171,9 @@ function PageHook() {
               Join our waitlist today
             </h1>
             <p className="max-w-[600px]  leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
-            Begin your indiehacker journey with FoundersForge. Our courses, crafted by
+            Begin your journey with FoundersForge. Our courses, crafted by
             respected CEOs and Founders, provide training in
             SaaS development, programming, entrepreneurship and more.
-            Join our waiting list to get early entry to a learning experience
-            that will help you reach your professional goals.
             </p>
             {errors.email && (
               <p className="border dark:border-white/25 border-[#704705] flex gap-x-3 items-center p-2 pl-5 max-w-md bg-gradient-to-r from-10% dark:from-[#704705] text-[#3a2503] from-[#f5a524] via-30% dark:via-black dark:to-black to-100% to-[#704705] mx-auto rounded-md dark:text-white ">
