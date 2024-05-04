@@ -19,15 +19,15 @@ import {
 
 import Snowfall from "react-snowfall";
 
-const people = [
-  {
-    id: 1,
-    name: "JOIN NOW",
-    designation: "Follow our Instagram too",
-    image: "/img/email.png",
-    href: "https://instagram.com/thefoundersforge ",
-  },
-];
+// const people = [
+//   {
+//     id: 1,
+//     name: "JOIN NOW",
+//     designation: "Follow our Instagram too",
+//     image: "/img/email.png",
+//     href: "https://instagram.com/thefoundersforge ",
+//   },
+// ];
 
 // useForm
 import { useForm, Controller } from "react-hook-form";
