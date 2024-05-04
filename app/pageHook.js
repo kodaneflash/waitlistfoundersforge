@@ -168,14 +168,14 @@ function PageHook() {
               </p> */}
             </div>
             <h1 className="text-3xl font-bold  sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-800 capitalize md:max-w-2xl lg:max-w-3xl mx-auto ">
-              Join tour waitlist today
+              Join the waitlist today
             </h1>
             <p className="max-w-[600px]  leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
             Unlock the secrets to 7-figure online businesses with FoundersForge. 
             Our platform provides a rich repository of thousands of case studies and a dynamic 
             network of accomplished entrepreneurs. Learn how online businesses scale from 
-            zero to millions. Secure your place on our waitlist today for exclusive access t
-             invaluable insights and connections.
+            zero to millions. Secure your place on our waitlist today for exclusive access to
+            invaluable insights and connections.
             </p>
             {errors.email && (
               <p className="border dark:border-white/25 border-[#704705] flex gap-x-3 items-center p-2 pl-5 max-w-md bg-gradient-to-r from-10% dark:from-[#704705] text-[#3a2503] from-[#f5a524] via-30% dark:via-black dark:to-black to-100% to-[#704705] mx-auto rounded-md dark:text-white ">
